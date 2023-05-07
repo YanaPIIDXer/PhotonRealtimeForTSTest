@@ -1,0 +1,2 @@
+# PhotonRealtimeForTSTest
+TypeScript向けのPhoton Realtime実験
